@@ -11,6 +11,8 @@ you can say it is mix of some colors
 my tie has 
 red
 pink
+Green
+Blue 
 yellow
 white
 gray
